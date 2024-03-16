@@ -1,0 +1,47 @@
+.container {
+    padding: 20px;
+
+    max-width: 600px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    font-size: 16px;
+    padding: 20px;
+    margin-bottom: 20px;
+
+  }
+  li img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  li p {
+    margin: 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  
+  .loading {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .error {
+    text-align: center;
+    color: lightcoral;
+    margin-top: 20px;
+  }
+  
